@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QRCalendar//EN
+BEGIN:VEVENT
+SUMMARY:Johnathan Tenny Dissertation Defense
+LOCATION:NAU campus and online, see description
+DTSTART:20261117T160000Z
+DTEND:20261117T170000Z
+DESCRIPTION:This public presentation will discuss novel tools and techniques for wildfire fuel and risk evaluation.\n\nIn-Person Location: Walnut A/B, University Union Building. The Walnut conference room is located upstairs near the SW entrance to the building.\n\nOnline Option (Zoom)\n\nhttps://us06web.zoom.us/j/89129539262?pwd=eLNqGQNH7EptgpLs6mb4rh1vaRX5cb.1\n\nMeeting ID: 891 2953 9262\nPassword: 095116
+END:VEVENT
+END:VCALENDAR
